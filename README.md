@@ -5,7 +5,6 @@
 
 **Student:** Sunil Kumar Vuta
 **Student ID:** 700772302
-**GitHub Repository:** Easily access all code and files here: 
 
 ---
 
@@ -13,7 +12,7 @@ This README explains how I completed Homework 5, including both the short‑answ
 
 ---
 
-# Part A — Short Answers (How I Solved This Section)
+# Part A — Short Answers 
 
 For this section, I wrote all answers concisely (2–3 lines each) while clearly explaining the required concepts. Below is how I approached each group of questions.
 
@@ -76,7 +75,7 @@ All short answers are included in the submitted PDF.
 
 ---
 
-# Part B — Coding (How I Solved This Section)
+# Part B — Coding 
 
 ## Q1. Scaled Dot‑Product Attention (NumPy)
 
