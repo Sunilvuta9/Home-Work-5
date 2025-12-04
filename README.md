@@ -5,7 +5,7 @@
 
 **Student:** Sunil Kumar Vuta
 **Student ID:** 700772302
-**GitHub Repository:** Easily access all code and files here: *(Add your GitHub link — I can insert it if you provide it)*
+**GitHub Repository:** Easily access all code and files here: 
 
 ---
 
